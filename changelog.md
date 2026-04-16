@@ -1,0 +1,6 @@
+15.04.2026 klecha/yurii: dodano generowanie nowego place na bazie "game" jako prywatne dla kazdego nowego party przy uzyciu createplaceasync, safeteleport, teleportservice. polegajace na tworzeniu kodu party i prywatnego klucza do ktorego dostęp ma tylko party. zabezpieczenia przed dołączeniem z poza gry, nie pokazuje sie na server liscie i nie da sie dolaczyc, tylko safeteleport i komendy administratora - mikiruab, jurathegamerRUS (;join [partycode])
+
+16.04.2026 klecha: zmiana oświetlenia i atmosfery dla "game". dodanie latajacego pokoju w ktorym spawnowac bedzie sie gracz, jest to sala komputerowa 155b, nowy model biurka, i propozycja dla modelu kolejnego biurka (tego starego dla uczniow). + zmiana oswietlenia lobby (fog offset i inne ten teges)
+++ faktycznie dodano komende ;join [partycode].
+// dodać wiecej biurek, znalezc jakies stare krzesla (rozne kolory, niebieski i czerwony) obrotowe, komputerowe ale takie metalowo-drewniane. zrobić oświetlenie na bazie tego co jest faktycznie.
+
