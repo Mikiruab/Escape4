@@ -1,5 +1,4 @@
 # prp
-prpsio projekt, dowolny temat, 
 Grupa: Mikołaj Klecha, Yurii Krasivskyi
 Temat: Escape The Evil 4, gra w horror na platformie roblox.
 https://www.roblox.com/games/93544046210758/ESCAPE-THE-EVIL-4
