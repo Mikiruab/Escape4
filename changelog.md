@@ -4,4 +4,4 @@
 ++ faktycznie dodano komende ;join [partycode].
 // dodać wiecej biurek, znalezc jakies stare krzesla (rozne kolory, niebieski i czerwony) obrotowe, komputerowe ale takie metalowo-drewniane. zrobić oświetlenie na bazie tego co jest faktycznie.
 
-17.04.2026 yurii: zmieniłem ui dla stworzenia party, zmieniłem logo i thumbnail gry, w lobby dodałem nowe propy, oczyściłem niepotrzebne stringi w lokalizacjach, które nie są używane.
+17.04.2026 yurii: zmieniłem ui dla stworzenia party, zmieniłem logo i thumbnail gry, w lobby dodałem nowe propy, oczyściłem niepotrzebne stringi w lokalizacjach, które nie są używane. w "game", zmieniłem i naprawiłem sprint ui, zanchorowałem niektóre obiekty, poprzemieszczałem i zmieniłem cursor (chciałem dodać, żeby można było odblokować kursor, ale nie da się, bo coś blokuje skrypt, więc usunąłem)
